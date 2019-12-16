@@ -1,0 +1,6 @@
+C:\Users\232ca\source\repos\lb 3\lb 3\bin\Debug\lb 3.exe.config
+C:\Users\232ca\source\repos\lb 3\lb 3\bin\Debug\lb 3.exe
+C:\Users\232ca\source\repos\lb 3\lb 3\bin\Debug\lb 3.pdb
+C:\Users\232ca\source\repos\lb 3\lb 3\obj\Debug\lb 3.csprojAssemblyReference.cache
+C:\Users\232ca\source\repos\lb 3\lb 3\obj\Debug\lb 3.exe
+C:\Users\232ca\source\repos\lb 3\lb 3\obj\Debug\lb 3.pdb
